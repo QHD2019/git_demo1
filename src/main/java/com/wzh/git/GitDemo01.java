@@ -9,5 +9,6 @@ public class GitDemo01 {
         System.out.println("push ssssssss");
         System.out.println("sdfasfdsffds");
         System.out.println("push tttttttt");
+        System.out.println("push ttasdftt");
     }
 }
